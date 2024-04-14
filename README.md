@@ -6,6 +6,6 @@ I also lead operations at [vLeap Agency](https://vleap.io), where we provide spe
 
 ## Further Accomplishments:
 
-- **1st Place at Multiverse Hackathon 2023**: Engineered a smart contract module that automates cloud builds and UI generations, enhancing blockchain functionality.
-- **1st Place at [Itheum](https://itheum.io) Acceleration Program**: Designed a sophisticated framework for [Data Coalition DAOs](https://www.itheum.io/product#coaliation-daos), advancing data governance.
-- **Creator of PHP SDK for MultiversX**: Developed an advanced PHP SDK that was officially adopted by the Multiverse team, broadening the ecosystem’s capabilities.
+- **1st Place at Multiverse Hackathon 2023**: Engineered a smart contract module that automates cloud builds and UI generations.
+- **1st Place at [Itheum](https://itheum.io) Acceleration Program**: Designed a sophisticated governance framework for [Data Coalition DAOs](https://www.itheum.io/product#coaliation-daos).
+- **Creator of PHP SDK for MultiversX**: Developed an advanced PHP SDK that was officially adopted by Multiverse.
