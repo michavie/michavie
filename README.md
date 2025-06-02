@@ -11,3 +11,19 @@ I also lead operations at [vLeap Group](https://vleap.io), where we develop in-h
 - **1st Place at [Itheum](https://itheum.io) Acceleration Program**: Designed a sophisticated governance framework for [Data Coalition DAOs](https://www.itheum.io/product#coaliation-daos).
 - **Creator of PHP SDK for MultiversX**: Developed an advanced PHP SDK that was officially adopted by MultiversX.
 - **Creator of the MultiversX Warp Protocol**: Developed an open-source and on-chain to share any Blockchain Action via a simple link, including QR codes and NFC tags.
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-02T21:56:00.033Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x5EeCbB773aFf1023eB829eA9524CDeFa4A59DFFE"
+    },
+    {
+      "chain": "solana",
+      "address": "CLD64vaSmtVrE9RPgiUBnkMyGiU6K51XgAuPucS5eBhw"
+    }
+  ]
+}
+WALLET-LINKING-END -->
