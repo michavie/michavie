@@ -1,8 +1,8 @@
 # I'm Micha Vie.
 
-I'm the founder of [PeerMe](https://peerme.io), the leading cryptocompany & DAO platform on the [MultiversX](https://multiversx.com) blockchain, [JoAi](https://joai.ai), a platform that frees your time with AI Agents for seamless task automation and intelligent decision-making, [Spawnable](https://spawnable.io), a pioneering automation platform for smart contracts and metaverse objects, and [Tagrity](https://tagrity.io), an advanced product suite for connecting real-world assets to the blockchain using NFC technology.
+I'm the founder of **JoAi**[](https://joai.ai), a platform for general-purpose & web3-native AI agents, **PeerMe**[](https://peerme.io), the leading cryptocompany & DAO platform on the **MultiversX**[](https://multiversx.com) blockchain, **Spawnable**[](https://spawnable.io), a pioneering automation platform for smart contracts, and **Tagrity**[](https://tagrity.io), an advanced product suite for connecting real-world assets to the blockchain using NFC technology.
 
-I also lead operations at [vLeap Group](https://vleap.io), where we develop in-house products and provide specialized client services on demand.
+I also lead operations at **vLeap Group**[](https://vleap.io), where we develop in-house products and provide specialized client services on demand.
 
 ## Further Accomplishments:
 
