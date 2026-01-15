@@ -9,8 +9,8 @@ I also lead operations at **vLeap Group**[](https://vleap.io), where we develop 
 - **1st Place at AI Hackathon 2025**: Built autonomous on-chain AI agent Swarms using MultiSig and DAOs for collaboration and collective asset management.
 - **1st Place at MultiversX Hackathon 2023**: Engineered an end-to-end smart contract automation platform with automatic cloud builds, deployments, and UI generations.
 - **1st Place at [Itheum](https://itheum.io) Acceleration Program**: Designed a sophisticated governance framework for [Data Coalition DAOs](https://www.itheum.io/product#coaliation-daos).
-- **Creator of PHP SDK for MultiversX**: Developed an advanced PHP SDK that was officially adopted by MultiversX.
-- **Creator of the MultiversX Warp Protocol**: Developed an open-source and on-chain to share any Blockchain Action via a simple link, including QR codes and NFC tags.
+- **Creator of PHP SDK for MultiversX**: Developed an advanced PHP SDK that was officially adopted by MultiversX Foundation.
+- **Creator of Warp Protocol**: Developed an open-source protocol that enables AI agents to autonomously learn and extend their capabilities through shareable blockchain actions. Powers next-generation AI agent platforms like JoAi.
 
 <!-- WALLET-LINKING-BEGIN
 {
